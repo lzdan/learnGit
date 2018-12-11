@@ -1,3 +1,4 @@
 dev分支的txt文件
 git追踪的是修改,而不是文件
 修改后add
+再次修改直接commit
